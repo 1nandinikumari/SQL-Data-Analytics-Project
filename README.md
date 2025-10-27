@@ -82,7 +82,7 @@ Starting from database creation, data insertion, and exploration, the objective 
 ---
 
 ### **8. Change Over Time Analysis**
-- Examined how sales and transactions changed over time (daily, monthly, quarterly).  
+- Examined how sales and transactions changed over time (monthly, yearly).  
 - Identified growth trends and declining periods using date-based aggregations.  
 - Used SQL window functions to compute **period-over-period comparisons**.
 
@@ -132,8 +132,7 @@ Starting from database creation, data insertion, and exploration, the objective 
 
 - **SQL** – Database creation, data insertion, queries, and analytical operations.  
 - **INFORMATION_SCHEMA** – For metadata and structural exploration.  
-- **Aggregate & Window Functions** – For cumulative, ranking, and performance analysis.  
-- **Excel / Power BI (optional)** – For report visualization and summarization.  
+- **Aggregate & Window Functions** – For cumulative, ranking, and performance analysis.   
 
 ---
 
