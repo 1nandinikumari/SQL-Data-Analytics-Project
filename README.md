@@ -1,4 +1,4 @@
-# 📊 Data Analytics Project – SQL | Data Exploration | Business Insights
+# 📊 Data Analytics Project – SQL | Data Exploration | Business Insights 
 
 ---
 
